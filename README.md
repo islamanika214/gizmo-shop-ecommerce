@@ -1,4 +1,4 @@
-# gizmo-shop-ecommerce
+# Gizmo Hub
 
 Gizmo Hub is a front-end web project built using HTML, CSS, and JavaScript. It provides a modern, clean, and responsive design for showcasing products, browsing trending items, and contacting the shop.
 
